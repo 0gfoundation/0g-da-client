@@ -109,7 +109,7 @@ For detailed public APIs, visit the [gRPC API](docs/api/) section.
     Reference:
     
     * [Testnet Configuration](https://docs.0g.ai/run-a-node/testnet-information)
-    * [Contract Addresses](https://docs.0g.ai/run-a-node/testnet-information#contract-addresses)
+    * [Contract Addresses](https://docs.0g.ai/developer-hub/building-on-0g/contracts-on-0g/staking-interfaces?_highlight=contract#contract-addresses)
 
     ```bash
     ./bin/combined \
