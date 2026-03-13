@@ -8,7 +8,7 @@ To dive deep into the technical details, continue reading the [0G DA spec](https
 
 ## Integration
 
-Check out [this example](https://github.com/0glabs/0g-da-example-rust) for how to integrate the 0GDA into your own applications.
+Check out [this example](https://github.com/0gfoundation/0g-da-example-rust) for how to integrate the 0GDA into your own applications.
 
 For detailed public APIs, visit the [gRPC API](docs/api/) section.
 
@@ -58,7 +58,7 @@ For detailed public APIs, visit the [gRPC API](docs/api/) section.
 3.  Download the source code
 
     ```bash
-    git clone -b v1.0.0-testnet https://github.com/0glabs/0g-da-client.git
+    git clone -b v1.0.0-testnet https://github.com/0gfoundation/0g-da-client.git
     ```
 
 
@@ -148,7 +148,7 @@ For detailed public APIs, visit the [gRPC API](docs/api/) section.
 For Docker deployment instructions, see the [Docker Guide](run/README.md).
 
 ### (Optional) Setup DA Retriever
-If you want to use the retrieval feature of the DA client, you also need to set up the DA Retriever. Please refer to this [document](https://github.com/0glabs/0g-da-retriever) for more details.
+If you want to use the retrieval feature of the DA client, you also need to set up the DA Retriever. Please refer to this [document](https://github.com/0gfoundation/0g-da-retriever) for more details.
 
 
 ## Contributing
