@@ -621,7 +621,7 @@ func (s *SliceSigner) aggregateSignature(ctx context.Context, signInfo *SignInfo
 					signedSliceCount[blobIdx] = 0
 					bitmapLen := sliceSize / 8
 					if sliceSize%8 != 0 {
-						sliceSize++
+						bitmapLen++
 					}
 					quorumBitmap[blobIdx] = make([]byte, bitmapLen)
 				} else {
